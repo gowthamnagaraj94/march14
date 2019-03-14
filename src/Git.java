@@ -10,7 +10,7 @@ public class Git {
 	num[3]=4;
 	num[4]=5;
 	System.out.println(num.length);
-	System.out.println(num[2]);
+	System.out.println(num[1]);
 
 	
 	
